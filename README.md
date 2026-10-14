@@ -1,5 +1,16 @@
 # Progra III Div132 2026 c2
 
+
+## Entendiendo el backend
+- [Playlist de Programación Web de Todocode](https://www.youtube.com/watch?v=lC6JOQLIgp0&list=PLQxX2eiEaqbxx6Ds5bd1F6LZJo7_OnZhV)
+    - Arquitectura cliente servidor
+    - Protocolo HTTP
+    - Que es JSON
+    - Que son las APIs
+
+- [Protocolo HTTP y Lenguaje HTML](https://www.youtube.com/watch?v=l6oF_RpBf64)
+
+
 ---
 
 ## Fechas importantes
@@ -19,7 +30,7 @@
 - [Se termino lo de la IA reemplazando devs](https://www.youtube.com/watch?v=KQgATAU6ztU)
 
 # Cronograma clases
-- Prox clase: JavaScript VII
+
 
 ## Pendientes
 - Diferencia rest operator y spread operator
@@ -31,7 +42,7 @@
 
 ---
 
-## Videos
+## Videos generales
 - [amigoscode / se termino lo de la ia reemplazando desarrolladores](https://www.youtube.com/watch?v=KQgATAU6ztU)
 - [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
 
