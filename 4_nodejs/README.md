@@ -1,5 +1,15 @@
 # Introduccion a backend
 
+## Proxima clase
+- La tarea para la proxima clase sera tener instalado [Node.js y NPM](https://nodejs.org/es/download)
+
+- Publicar excel de grupos para el TP Integrador
+
+- [Documental trailer de Node.js](https://www.youtube.com/watch?v=SfWPqr04srM)
+
+---
+
+
 ## 1. Servidor como proceso
 Conocemos al servidor de dos maneras
     1. Una computadora especializada (tipica de los datacenters)

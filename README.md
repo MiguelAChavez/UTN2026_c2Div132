@@ -18,11 +18,12 @@
 - 1er Parcial sincronico: 16 - 08:30
 - Recuperatorio 1er parcial: 23 - 08:30 en tiempo de clase
 
-### Que practicar?
-- Ejercicios de JS IV, V y VI
-- Maquetacion con CSS y estilos basicos
-- Recorrer arrays de objetos y renderizarlos
-- Practicar con eventos!
+## Proxima clase
+- La tarea para la proxima clase sera tener instalado [Node.js y NPM](https://nodejs.org/es/download)
+
+- Publicar excel de grupos para el TP Integrador
+
+
 
 ---
 
